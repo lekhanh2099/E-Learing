@@ -1,0 +1,38 @@
+export const Primary = {
+  fsTitle: "3.3rem",
+  fsSubTitle: "1.6rem",
+  fsText: "1.4rem",
+  fcTitle: "#EBA83A",
+  fcSubTitle: "#fff",
+  fcMain: "#fff",
+  fcSecond: "#000",
+  fcGray: "#ccc",
+  bgPrimary: "rgba(47, 48, 58, 1)",
+  bgSecondary: "#616269",
+  bgWhite: "#fff",
+  bgFooter: "rgb(47 48 58 / 76%)",
+  bgCard: "rgba(47,48,58,1)",
+  bgDetail: "rgb(47 48 58 / 76%)",
+  bgBox: "rgba(47, 48, 58, 1)",
+  //--- Border ---------
+  border: "1px solid #e2e0d4",
+  borderPrimary: "1px solid #EBA83A",
+  //--- Button -------
+  btnColor: "#EBA83A",
+  btnHoverColor: "#ce9841",
+  hoverColor: "#ce9841",
+  //--- Color app -------
+  colorApp: "#EBA83A",
+  colorDanger: "#f44336",
+  colorSuccess: "#4caf50",
+  colorWarning: "#ff9800",
+  colorNav: "rgba(47, 48, 58, 1)",
+  mark: "rgba(0, 0, 0, 0.3);",
+  bgRgba: "rgba(167, 99, 0, 0.4)",
+  radius: "5px",
+  shadow:
+    "rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px",
+  transitionAll: "all 0.3s ease-in-out",
+  height: "90px",
+  heightMobile: "70px",
+};

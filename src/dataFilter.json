@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "name": "Topic",
+    "value": ["Name 1", "Name 2", "Name 3", "Name 4", "Name 5"]
+  },
+  {
+    "id": 2,
+    "name": "Level",
+    "value": ["Name 1", "Name 2", "Name 3", "Name 4", "Name 5"]
+  },
+  {
+    "id": 3,
+    "name": "Languages",
+    "value": ["Name 1", "Name 2", "Name 3", "Name 4", "Name 5"]
+  },
+  {
+    "id": 4,
+    "name": "Features",
+    "value": ["Name 1", "Name 2", "Name 3", "Name 4", "Name 5"]
+  },
+  {
+    "id": 5,
+    "name": "Rankings",
+    "value": ["Name 1", "Name 2", "Name 3", "Name 4", "Name 5"]
+  }
+]

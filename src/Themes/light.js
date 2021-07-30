@@ -1,0 +1,38 @@
+export const Light = {
+  fsTitle: "3.3rem",
+  fsSubTitle: "1.6rem",
+  fsText: "1.4rem",
+  fcTitle: "#EBA83A",
+  fcSubTitle: "#fff",
+  fcMain: "#000000",
+  fcSecond: "#ccc",
+  fcGray: "#404040",
+  bgPrimary: "#c7c7c7",
+  bgSecondary: "#fafafa",
+  bgWhite: "#fff",
+  bgFooter: "#BB371A",
+  bgCard: "rgba(47,48,58,1)",
+  bgDetail: "#fff",
+  bgBox: "#d5dbb3",
+  //--- Border ---------
+  border: "1px solid #D5DBB3",
+  borderPrimary: "1px solid #D5DBB3",
+  //--- Button -------
+  btnColor: "#BB371A",
+  btnHoverColor: "",
+  hoverColor: "#BB371A",
+  //--- Color app -------
+  colorNav: "#EBA83A",
+  colorApp: "#EBA83A",
+  colorDanger: "#e57373",
+  colorSuccess: "#81c784",
+  colorWarning: "#ffb74d",
+  mark: "rgba(0, 0, 0, 0.3);",
+  bgRgba: "rgba(226, 226, 226, 0.95)",
+  radius: "5px",
+  shadow:
+    "rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px",
+  transitionAll: "all 0.3s ease-in-out",
+  height: "90px",
+  heightMobile: "70px",
+};
