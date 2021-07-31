@@ -70,7 +70,7 @@ export default function TrendingContainer() {
   return (
     <Trending.Overlay>
       <Trending.HeroBg>
-        <Hidden only={["xs", "sm", "md"]}>
+        {/* <Hidden only={["xs", "sm", "md"]}>
           <Trending.VideoBg
             autoPlay
             loop
@@ -78,7 +78,7 @@ export default function TrendingContainer() {
             src={Video}
             type="video/mp4"
           ></Trending.VideoBg>
-        </Hidden>
+        </Hidden> */}
       </Trending.HeroBg>
       <Container fixed>
         <Trending.Title>
