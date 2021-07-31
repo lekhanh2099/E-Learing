@@ -1,8 +1,6 @@
 import { Container, Grid } from "@material-ui/core";
 import React from "react";
 import { Trending } from "../Components";
-import Video from "../Assets/video/trending-bg-1.mp4";
-import { Hidden } from "@material-ui/core";
 
 const trending = [
   {
@@ -69,17 +67,6 @@ export default function TrendingContainer() {
 
   return (
     <Trending.Overlay>
-      <Trending.HeroBg>
-        {/* <Hidden only={["xs", "sm", "md"]}>
-          <Trending.VideoBg
-            autoPlay
-            loop
-            muted
-            src={Video}
-            type="video/mp4"
-          ></Trending.VideoBg>
-        </Hidden> */}
-      </Trending.HeroBg>
       <Container fixed>
         <Trending.Title>
           Các môn học được học viên đăng kí nhiều nhất
